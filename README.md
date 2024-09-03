@@ -1,0 +1,2 @@
+# syamailcoin-whitepaper
+Whitepaper
